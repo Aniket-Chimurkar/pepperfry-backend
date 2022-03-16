@@ -17,7 +17,7 @@
    <li>Payment Page</li>
 </ol>
  </div>
- <h3>Tech Stack: HTML | CSS | Javascript</h3>
+ <h3>Tech Stack: HTML | CSS | Javascript | MongoDB | Express</h3>
  
   <div>
    
